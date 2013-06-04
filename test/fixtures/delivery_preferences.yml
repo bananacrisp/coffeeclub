@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  bean_or_ground: MyString
+  grind_type: MyString
+  interval_duration: MyString
+  last_date: 2013-06-03
+  first_date: 2013-06-03
+  status: MyString
+
+two:
+  bean_or_ground: MyString
+  grind_type: MyString
+  interval_duration: MyString
+  last_date: 2013-06-03
+  first_date: 2013-06-03
+  status: MyString

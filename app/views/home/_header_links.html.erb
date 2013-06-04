@@ -1,0 +1,10 @@
+<nav class="">
+    <%= header_link "About",  about_path, page %>
+    <%= header_link "FAQ", faqs_path, page %>
+    <%#= link_to "Club Coffees", coffees_path %>
+    <%#= link_to "Account", accounts_path %>
+    <%#= link_to "Sign Up", signups_path %>
+    <% if page == :index %>
+      <p>Hello Test</p>
+      <%end %>
+</nav>
